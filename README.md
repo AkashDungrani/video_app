@@ -1,16 +1,4 @@
 # video_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="475" alt="Screenshot 2023-01-30 at 5 47 54 PM" src="https://user-images.githubusercontent.com/121867955/215474924-1603d4d5-0fcd-40cd-8f20-727ab01dbc81.png">
+<img width="475" alt="Screenshot 2023-01-30 at 5 48 01 PM" src="https://user-images.githubusercontent.com/121867955/215474933-41742707-d79d-468a-a036-a3476df8a2f9.png">
+<img width="475" alt="Screenshot 2023-01-30 at 5 48 08 PM" src="https://user-images.githubusercontent.com/121867955/215474947-849a19bf-87b8-477c-b15b-ab4a11df1972.png">
